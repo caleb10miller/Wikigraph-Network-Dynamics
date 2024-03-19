@@ -35,11 +35,9 @@ For a detailed exploration of the network and to run the centrality measures:
 - Use g_funcs.py and centrality_measures.py for graph functions and calculations.
 
 ## Resources
-[Project Proposal](Project Proposal.pdf)
-Exploring Network Dynamics and Centrality Within The Wiki-Topcats Network (Paper)
-[Presentation](Presentation-ExploringNetworkDynamicsAndCentralityWithinTheWiki-TopcatsNetwork (1).pdf)
-License
-This project is open-sourced under the MIT license.
+- Project Proposal
+- Exploring Network Dynamics and Centrality Within The Wiki-Topcats Network (Paper)
+- Project Presentation
 
 ## Acknowledgements
 Thanks to the Stanford Large Network Dataset Collection for providing the dataset and to all contributors to the Wikipedia hyperlink graph analysis.
